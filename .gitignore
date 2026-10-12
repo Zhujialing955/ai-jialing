@@ -1,0 +1,9 @@
+*.pth
+*.ckpt
+/datasets/
+/runs/
+/logs/
+__pycache__
+*.png
+.ipynb_checkpoints
+.env

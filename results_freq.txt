@@ -1,0 +1,10 @@
+Loaded checkpoint: checkpoints/best_model_freq.pth
+Test scenes: 4
+[antinous] PSNR=37.371  SSIM=0.9313
+[boardgames] PSNR=26.643  SSIM=0.7871
+[rosemary] PSNR=28.639  SSIM=0.8347
+[table] PSNR=26.335  SSIM=0.6901
+
+===== FINAL RESULT =====
+AVG PSNR: 29.7471
+AVG SSIM: 0.8108

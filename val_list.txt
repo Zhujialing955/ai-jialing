@@ -1,0 +1,4 @@
+HCI/backgammon.h5
+HCI/dots.h5
+HCI/pyramids.h5
+HCI/stripes.h5
